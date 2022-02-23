@@ -17,5 +17,5 @@ I spent 3 months at EROAD as the AppSec Engineer Intern where I :
 
 Other than the technical skills I've come to learn I have also improved my soft skills in communicating with the team, and reaching out when needing too.
 
-Special thanks to the AppSec team at EROAD for all their support!
+**Special thanks to the AppSec team at EROAD for all their support!**
 
