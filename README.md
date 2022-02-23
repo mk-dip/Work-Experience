@@ -12,4 +12,5 @@ I spent 3 months at EROAD as the AppSec Engineer Intern where I :
   * Lambda
   * EC2
   * EKS
+* Participated in threat modelling activities
 
